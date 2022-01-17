@@ -1,11 +1,10 @@
-https://archive.ics.uci.edu/ml/index.php
 
-Build an ANN Regression model to predict the electrical energy output of a Combined Cycle Power Plant
+ANN Regression model to predict the electrical energy output of a Combined Cycle Power Plant
 
 Part 1: Data Preprocessing
 
-    Importing the dataset: https://archive.ics.uci.edu/ml/index.php
-     Combined Cycle Power Plant Data Set
+    Importing the dataset:
+    [ Combined Cycle Power Plant Data Set](https://archive.ics.uci.edu/ml/index.php)
 
     Splitting the dataset into the training set and test set
 
